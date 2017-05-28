@@ -7,3 +7,4 @@ authors = ["rap2h <raphaelht@gmail.com>"]
 image = "*"
 imageproc = "*"
 rand = "*"
+time = "*"
